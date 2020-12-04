@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MulipleStatusDemo</string>
+    <string name="list_empty_tip">暂无数据</string>
+    <string name="load_failure_simple">加载失败</string>
+    <string name="no_network">没网了，请检查网络连接</string>
+
+</resources>
